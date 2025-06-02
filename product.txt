@@ -1,0 +1,11 @@
+1|Earbuds|Wireless, noise-cancelling in-ear headphones|199.99|89
+2|Smartphone|6.5” OLED display, 5G connectivity|899.99|45
+3|Laptop|14” ultrabook, Intel i7, 16GB RAM|1299.99|23
+4|Smartwatch|Heart-rate monitor, GPS, waterproof|249.99|74
+5|Bluetooth Speaker|Portable, waterproof, 20W output|129.99|96
+6|Wireless Mouse|Ergonomic, rechargeable, Bluetooth|49.99|137
+7|Mechanical Keyboard|RGB backlit, tactile switches|99.99|60
+8|Gaming Monitor|27” 144Hz, 1ms response, IPS|329.99|38
+9|Action Camera|4K recording, image stabilization|299.99|52
+10|Portable Charger|20,000mAh, dual USB-C output|59.99|115
+11|Airpod|Gen 4|199.99|10

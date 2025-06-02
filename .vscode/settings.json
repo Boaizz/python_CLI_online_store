@@ -1,0 +1,13 @@
+{
+    "python.REPL.enableREPLSmartSend": false,
+    "python.analysis.extraPaths": [
+        "./domain",
+        "./observer",
+        "./shipment",
+        "./cart",
+        "./user",
+        "./product",
+        "./order",
+        "./payment"
+    ]
+}
