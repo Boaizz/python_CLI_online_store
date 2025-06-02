@@ -1,0 +1,4 @@
+Sales Report for 2025-06-02:
+  Product 3: 2 unit(s) sold
+  Product 1: 2 unit(s) sold
+  Product 5: 12 unit(s) sold
